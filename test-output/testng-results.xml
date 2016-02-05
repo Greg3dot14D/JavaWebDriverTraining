@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4249" started-at="2016-02-05T14:33:53Z" finished-at="2016-02-05T14:33:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4249" started-at="2016-02-05T14:33:53Z" finished-at="2016-02-05T14:33:58Z">
+      <class name="ru.greg3d.DoLogin">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.greg3d.DoLogin@5594a1b5]" name="init" is-config="true" duration-ms="2794" started-at="2016-02-05T17:33:53Z" finished-at="2016-02-05T17:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="DoLoginTest()[pri:0, instance:ru.greg3d.DoLogin@5594a1b5]" name="DoLoginTest" duration-ms="1436" started-at="2016-02-05T17:33:56Z" finished-at="2016-02-05T17:33:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.greg3d.DoLogin@5594a1b5]" name="tearDown" is-config="true" duration-ms="1416" started-at="2016-02-05T17:33:58Z" finished-at="2016-02-05T17:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ru.greg3d.DoLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
