@@ -61,13 +61,13 @@
   <!-- profiles -->
   <profiles>
     <profile>
-      <id>local</id>
+      <id>remote_firefox</id>
       <properties>
-        <env>local</env>
+        <env>remote_firefox</env>
         <user.username></user.username>
         <user.password></user.password>
-        <grid2.hub></grid2.hub>
-        <site.url>http://localhost/</site.url>
+        <grid2.hub>http://192.168.21.2:4444/wd/hub</grid2.hub>
+        <site.url>http://192.168.21.2</site.url>
         <browser.name>firefox</browser.name>
         <browser.version></browser.version>
         <browser.platform></browser.platform>
