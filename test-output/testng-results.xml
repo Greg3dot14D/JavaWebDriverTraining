@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5321" started-at="2016-02-06T07:44:44Z" finished-at="2016-02-06T07:44:50Z">
+  <suite name="Default suite" duration-ms="5410" started-at="2016-02-06T19:56:37Z" finished-at="2016-02-06T19:56:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5321" started-at="2016-02-06T07:44:44Z" finished-at="2016-02-06T07:44:50Z">
+    <test name="Default test" duration-ms="5410" started-at="2016-02-06T19:56:37Z" finished-at="2016-02-06T19:56:42Z">
       <class name="ru.greg3d.DoLogin">
-        <test-method status="PASS" signature="init()[pri:0, instance:ru.greg3d.DoLogin@643faf]" name="init" is-config="true" duration-ms="4779" started-at="2016-02-06T10:44:44Z" finished-at="2016-02-06T10:44:49Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.greg3d.DoLogin@1dfbc7f]" name="init" is-config="true" duration-ms="4619" started-at="2016-02-06T22:56:37Z" finished-at="2016-02-06T22:56:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="DoLoginTest()[pri:0, instance:ru.greg3d.DoLogin@643faf]" name="DoLoginTest" duration-ms="520" started-at="2016-02-06T10:44:49Z" finished-at="2016-02-06T10:44:50Z">
+        <test-method status="PASS" signature="DoLoginTest()[pri:0, instance:ru.greg3d.DoLogin@1dfbc7f]" name="DoLoginTest" duration-ms="770" started-at="2016-02-06T22:56:41Z" finished-at="2016-02-06T22:56:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DoLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.greg3d.DoLogin@643faf]" name="tearDown" is-config="true" duration-ms="136" started-at="2016-02-06T10:44:50Z" finished-at="2016-02-06T10:44:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.greg3d.DoLogin@1dfbc7f]" name="tearDown" is-config="true" duration-ms="105" started-at="2016-02-06T22:56:42Z" finished-at="2016-02-06T22:56:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
